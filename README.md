@@ -183,7 +183,7 @@ Use Postman or Insomnia to test API routes manually. Automated test coverage can
 
 ## 📬 Contact
 
-**Shaik Sha**
+**ShaikSha**
 📧 Email: [shaiksha.github@gmail.com](mailto:shaiksha.github@gmail.com)
 🔗 GitHub: [shaiksha-github](https://github.com/shaiksha-github)
 
