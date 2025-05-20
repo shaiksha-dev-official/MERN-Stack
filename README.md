@@ -170,13 +170,14 @@ Use Postman or Insomnia to test API routes manually. Automated test coverage can
 
 ## 📸 Screenshots
 
+![Image](https://github.com/user-attachments/assets/8119fec6-c1f0-4c2d-8942-456dab29bf62)
 ![Image](https://github.com/user-attachments/assets/79eafef3-cb25-4e26-a8cf-a17b21d5c2e4)
 ![Image](https://github.com/user-attachments/assets/509cbffd-f50e-4246-8584-04b5a8ca71e0)
 ![Image](https://github.com/user-attachments/assets/c812f62e-755f-4f25-b121-a0304d4144f6)
 ![Image](https://github.com/user-attachments/assets/1417a2c5-4e64-439a-bd84-a334a0e94475)
 ![Image](https://github.com/user-attachments/assets/fe35b5e7-7588-477d-909b-44c1e9fcd949)
-![Image](https://github.com/user-attachments/assets/8119fec6-c1f0-4c2d-8942-456dab29bf62)
-![Image](https://github.com/user-attachments/assets/7bf9b8cc-cf9b-493b-97a9-b557fc96caf8)
+
+
 
 ---
 
