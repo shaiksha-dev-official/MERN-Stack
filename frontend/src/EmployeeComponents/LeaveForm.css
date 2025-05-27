@@ -1,0 +1,149 @@
+.leave-request-form {
+    max-width: 400px;
+    margin:10px auto;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .leave-request-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  } 
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .required-asterisk {
+    color: red;
+  }
+  
+  
+  .form-group input[type="text"],
+  .form-group textarea,
+  .form-group select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .form-group input[type="file"] {
+    display: inline-block;
+  }
+  
+  .form-group span {
+    margin-left: 10px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  .error {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+    display: block;
+  }
+  
+  @media (max-width: 1200px) {
+    .leave-request-form {
+      max-width: 800px;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .leave-request-form {
+      max-width: 700px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .leave-request-form {
+      max-width: 600px;
+      padding: 15px;
+    }
+  
+    button {
+      padding: 8px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .leave-request-form {
+      max-width: 100%;
+      padding: 10px;
+    }
+  
+    button {
+      padding: 8px;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .leave-request-form {
+      padding: 5px;
+    }
+  
+    input[type="text"],
+    textarea,
+    select,
+    input[type="file"] {
+      padding: 6px;
+    }
+  
+    button {
+      padding: 6px;
+    }
+  }
+
+  .leafpopup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .leaf-popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .leaf-popup-content p {
+    margin-bottom: 20px;
+  }
+  
+  .leaf-popup-content button {
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  

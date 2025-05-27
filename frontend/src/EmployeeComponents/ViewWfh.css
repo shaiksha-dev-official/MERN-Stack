@@ -1,0 +1,7 @@
+/* Select the Prev and Next buttons */
+button.prev, button.next {
+    width: 50px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    font-size: 12px; /* Adjust the font size as needed */
+    padding: 5px; /* Adjust the padding as needed */
+}
